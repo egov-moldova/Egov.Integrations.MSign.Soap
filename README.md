@@ -160,8 +160,6 @@ public async Task<IActionResult> Callback(string requestID, string relayState)
 |--------------|-------------|
 | **Hash** | Signature on a provided hash (SHA-1, SHA-256, etc.) |
 | **PDF** | Native PDF signature |
-| **XML** | XML Digital Signature (XAdES) |
-| **Binary** | Generic binary data signature |
 
 ---
 
