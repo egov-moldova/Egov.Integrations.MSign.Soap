@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
@@ -13,6 +13,7 @@
     <PackageIcon>MSign.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReleaseNotes>Release notes: https://github.com/egov-moldova/Egov.Integrations.MSign.Soap/blob/master/CHANGELOG.md</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/egov-moldova/Egov.Integrations.MSign.Soap</RepositoryUrl>
     <PackageProjectUrl>https://github.com/egov-moldova/Egov.Integrations.MSign.Soap</PackageProjectUrl>
     <PackageTags>MSign;SOAP;Digital Signature;Egov;Moldova</PackageTags>
